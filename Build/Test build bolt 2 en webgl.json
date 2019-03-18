@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Logo Corjn",
+"dataUrl": "Test build bolt 2 en webgl.data.unityweb",
+"wasmCodeUrl": "Test build bolt 2 en webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Test build bolt 2 en webgl.wasm.framework.unityweb",
+"asmCodeUrl": "Test build bolt 2 en webgl.asm.code.unityweb",
+"asmMemoryUrl": "Test build bolt 2 en webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "Test build bolt 2 en webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
